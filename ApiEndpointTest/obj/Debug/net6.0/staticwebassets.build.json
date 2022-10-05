@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GdifLA1Zz4fo0Usf4O/atB49t0bGDj1LpWprNSYQgHE=",
+  "Source": "ApiEndpointTest",
+  "BasePath": "_content/ApiEndpointTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

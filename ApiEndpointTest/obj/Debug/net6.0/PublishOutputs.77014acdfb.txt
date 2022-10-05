@@ -1,0 +1,15 @@
+C:\Users\MariusRogneMadsen\AppData\Local\Temp\rider-publish4629164274120494612\ApiEndpointTest.exe
+C:\Users\MariusRogneMadsen\AppData\Local\Temp\rider-publish4629164274120494612\ApiEndpointTest.dll
+C:\Users\MariusRogneMadsen\AppData\Local\Temp\rider-publish4629164274120494612\ApiEndpointTest.deps.json
+C:\Users\MariusRogneMadsen\AppData\Local\Temp\rider-publish4629164274120494612\ApiEndpointTest.runtimeconfig.json
+C:\Users\MariusRogneMadsen\AppData\Local\Temp\rider-publish4629164274120494612\ApiEndpointTest.pdb
+C:\Users\MariusRogneMadsen\AppData\Local\Temp\rider-publish4629164274120494612\Microsoft.OpenApi.dll
+C:\Users\MariusRogneMadsen\AppData\Local\Temp\rider-publish4629164274120494612\Serilog.dll
+C:\Users\MariusRogneMadsen\AppData\Local\Temp\rider-publish4629164274120494612\Serilog.Formatting.Compact.dll
+C:\Users\MariusRogneMadsen\AppData\Local\Temp\rider-publish4629164274120494612\Serilog.Sinks.Console.dll
+C:\Users\MariusRogneMadsen\AppData\Local\Temp\rider-publish4629164274120494612\Serilog.Sinks.File.dll
+C:\Users\MariusRogneMadsen\AppData\Local\Temp\rider-publish4629164274120494612\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\MariusRogneMadsen\AppData\Local\Temp\rider-publish4629164274120494612\Serilog.Sinks.Seq.dll
+C:\Users\MariusRogneMadsen\AppData\Local\Temp\rider-publish4629164274120494612\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MariusRogneMadsen\AppData\Local\Temp\rider-publish4629164274120494612\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MariusRogneMadsen\AppData\Local\Temp\rider-publish4629164274120494612\Swashbuckle.AspNetCore.SwaggerUI.dll
